@@ -62,3 +62,6 @@ The main objective of the Project on Login Management System is to manage the de
 
 ![pass_not_match](https://user-images.githubusercontent.com/94595471/150679273-e880c4fd-0752-4888-bd85-cb42bf1540a9.png)
 
+## OTP not matched
+
+![wrong verification](https://user-images.githubusercontent.com/94595471/150680146-4f5da0c9-2e03-49f0-a6fc-ad7402571715.png)
