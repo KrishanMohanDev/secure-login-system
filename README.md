@@ -65,3 +65,11 @@ The main objective of the Project on Login Management System is to manage the de
 ## OTP not matched
 
 ![wrong verification](https://user-images.githubusercontent.com/94595471/150680146-4f5da0c9-2e03-49f0-a6fc-ad7402571715.png)
+
+
+## OTP
+
+![OTP](https://user-images.githubusercontent.com/94595471/150680258-eb93a240-6646-4266-8b61-5420daf6e3ce.png)
+
+
+> Author: Krishan Mohan Mandal
