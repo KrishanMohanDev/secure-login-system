@@ -60,5 +60,5 @@ The main objective of the Project on Login Management System is to manage the de
 
 ## Confirm Password not matched
 
-![pass_not_match](https://user-images.githubusercontent.com/94595471/150678941-0f1a880c-3511-4136-828f-3aacd94cf0a5.png)
+![pass_not_match](https://user-images.githubusercontent.com/94595471/150679273-e880c4fd-0752-4888-bd85-cb42bf1540a9.png)
 
