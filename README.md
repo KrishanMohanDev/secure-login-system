@@ -51,3 +51,14 @@ The main objective of the Project on Login Management System is to manage the de
 
 ![dashbord](https://user-images.githubusercontent.com/94595471/150678518-0f6c6acf-f5a8-41b5-85b5-c83862d23b0d.jpg)
 
+
+# Form Validations:
+
+## Redundant Entry
+
+![1642941457501](https://user-images.githubusercontent.com/94595471/150678823-fdb5db03-bc4e-47ba-aeda-c9ce717244f5.png)
+
+## Confirm Password not matched
+
+![pass_not_match](https://user-images.githubusercontent.com/94595471/150678941-0f1a880c-3511-4136-828f-3aacd94cf0a5.png)
+
